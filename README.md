@@ -1,1 +1,0 @@
-# contentful-nextjs-howto
